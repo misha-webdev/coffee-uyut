@@ -1,0 +1,22 @@
+Источники фотографий (фотобанк Pexels, лицензия Pexels License — бесплатно, без водяных знаков)
+Условия лицензии: https://www.pexels.com/license/
+
+hero.jpg        https://www.pexels.com/photo/white-ceramic-mug-with-coffee-4264049/
+espresso.jpg    https://www.pexels.com/photo/white-ceramic-mug-and-saucer-685527/
+americano.jpg   https://www.pexels.com/photo/cup-of-coffee-on-a-sunlit-table-22703022/
+cappuccino.jpg  https://www.pexels.com/photo/beverage-brown-caffeine-cappuccino-531874/
+latte.jpg       https://www.pexels.com/photo/beverage-caffeine-cappuccino-coffee-414605/
+flat-white.jpg  https://www.pexels.com/photo/cappuccino-in-white-ceramic-cup-on-white-ceramic-saucer-2396220/
+raf.jpg         https://www.pexels.com/photo/cappuccino-on-table-186857/
+interior.jpg    https://www.pexels.com/photo/cozy-coffee-shop-interior-with-wooden-furniture-28947779/
+
+Фото демо-позиций меню (обрезаны до 4:3, 800x600):
+raf-lavender.jpg  https://www.pexels.com/photo/coffee-on-plate-on-book-15776156/
+bumble.jpg        https://www.pexels.com/photo/coffee-with-ice-cubes-14802987/
+cold-brew.jpg     https://www.pexels.com/photo/refreshing-glass-of-iced-coffee-on-cafe-counter-28901490/
+tea-thyme.jpg     https://www.pexels.com/photo/teacup-with-tea-905485/
+oolong.jpg        https://www.pexels.com/photo/cup-of-tea-on-plate-16928140/
+matcha-latte.jpg  https://www.pexels.com/photo/matcha-latte-in-a-green-ceramic-cup-8634757/
+croissant.jpg     https://www.pexels.com/photo/photo-of-a-croissant-on-a-plate-16543194/
+cheesecake.jpg    https://www.pexels.com/photo/cheesecake-1126359/
+carrot-cake.jpg   https://www.pexels.com/photo/a-slice-of-carrot-cake-5742606/
